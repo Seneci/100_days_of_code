@@ -1,0 +1,2 @@
+Day 001 - 21/06/2022
+This is a very simple script that pretends to use a unknown library for me and make a mouse move constantly so that the computer does not enter sleep mode.
