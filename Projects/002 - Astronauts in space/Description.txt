@@ -1,0 +1,2 @@
+Day 002 - 22/06/2022
+This is a very simple script where I try to attempt to use a simple API, as I have never used one. This API return a list of the people that are currenty on space right now. I found help by following the tutorial on the folowing website: https://www.dataquest.io/blog/python-api-tutorial/
