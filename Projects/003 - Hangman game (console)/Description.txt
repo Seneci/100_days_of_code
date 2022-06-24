@@ -1,1 +1,8 @@
+Day 002 - 23/06/2022
+This code has been published on GitHub on the 24th og June 2022 but the code has been developed during the 23rd of June. It has been impossible tu upload the same day due to internet conectivity isssues. 
 
+Ths is a another fairly simpe script. This timme i wanted also to use an API that was not very complicated but make a game that coud represent a little bit more of a challenge than the previous project. This has been certainly more difficult for me and I have gotten stuck on certain moments but I am happy of finally pulling it out. 
+
+I have made a console version as I would like to experiment in the future with Tkinter or otuer GUI Python libraries which can be usefull to make a second run for this project.
+
+While coding this I have seen the need to focus on commenting the code and trasnition to cleaner code.
