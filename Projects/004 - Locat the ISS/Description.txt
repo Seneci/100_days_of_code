@@ -1,0 +1,4 @@
+Day 4 - 24/06/2022
+This is my first attempt to make a script with a GUI. I also wanted to use agan API's as it's also something new for me. This time I wanted to use an API that takes parameters.
+
+The interface is very simple and defiateley I need to g deeper on this skill but I believe it's a nice start.
